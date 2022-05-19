@@ -121,6 +121,7 @@ nav.scroll{
   background-color: var(--primary-color);
 }
 nav .wrapper{
+  padding-inline: 1rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
