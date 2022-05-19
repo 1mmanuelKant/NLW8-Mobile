@@ -402,6 +402,7 @@ margin-inline: auto;
 }
 /* ======== FOOTER ============== */
 footer{
+  padding-inline: 1rem;
   background-color: var(--primary-color);
   padding-block: 3.75rem;
   
