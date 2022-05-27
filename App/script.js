@@ -1,10 +1,10 @@
 window.addEventListener('scroll', onScroll)
-onScroll()
 
 function onScroll() {
   showNavOnScroll()
   showBackToTopBtnOnScroll()
 }
+
 function showNavOnScroll(){
   if (scrollY > 400) {
     backToTopBtn.classList.add('show')
